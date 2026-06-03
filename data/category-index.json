@@ -1,0 +1,794 @@
+{
+  "beginner-mountain-hiking-routes": [
+    {
+      "id": 1,
+      "slug": "the-ultimate-guide-to-beginner-mountain-hiking-routes",
+      "title": "The Ultimate Guide to Beginner Mountain Hiking Routes",
+      "created_at": "2026-06-02T19:22:15.556949",
+      "image": {
+        "id": "7529d431353619000b8b955e8a9f5259f22cadbcbec066a795eb37c58b7142db",
+        "url": "https://picsum.photos/977/564?random=904",
+        "alt": "Featured image for: The Ultimate Guide to Beginner Mountain Hiking Routes",
+        "width": 977,
+        "height": 564
+      }
+    },
+    {
+      "id": 2,
+      "slug": "beginner-mountain-hiking-routes-everything-you-need-to-know",
+      "title": "Beginner Mountain Hiking Routes: Everything You Need to Know",
+      "created_at": "2026-06-02T19:22:15.557019",
+      "image": {
+        "id": "58bf5c174ecb42b9de251114a1b15a8f6ffb5caa9604676294e98ce034c4bac0",
+        "url": "https://picsum.photos/911/538?random=20",
+        "alt": "Featured image for: Beginner Mountain Hiking Routes: Everything You Need to Know",
+        "width": 911,
+        "height": 538
+      }
+    },
+    {
+      "id": 3,
+      "slug": "understanding-beginner-mountain-hiking-routes",
+      "title": "Understanding Beginner Mountain Hiking Routes",
+      "created_at": "2026-06-02T19:22:15.557057",
+      "image": {
+        "id": "bec5ac85985bae2970f5a8ecf8a2c845c6def3fab09c68feae70e918b8f49db6",
+        "url": "https://picsum.photos/1053/411?random=493",
+        "alt": "Featured image for: Understanding Beginner Mountain Hiking Routes",
+        "width": 1053,
+        "height": 411
+      }
+    },
+    {
+      "id": 4,
+      "slug": "beginner-mountain-hiking-routes-tips-and-best-practices",
+      "title": "Beginner Mountain Hiking Routes Tips and Best Practices",
+      "created_at": "2026-06-02T19:22:15.557090",
+      "image": {
+        "id": "077318fe2637ffdbad8b0ad35ae57110ec429b3ed42fd66c39cf319b049ab154",
+        "url": "https://picsum.photos/1039/583?random=372",
+        "alt": "Featured image for: Beginner Mountain Hiking Routes Tips and Best Practices",
+        "width": 1039,
+        "height": 583
+      }
+    },
+    {
+      "id": 5,
+      "slug": "the-history-of-beginner-mountain-hiking-routes",
+      "title": "The History of Beginner Mountain Hiking Routes",
+      "created_at": "2026-06-02T19:22:15.557125",
+      "image": {
+        "id": "5fcbf016871360cd632183acfbf478a5e147a7194c1338fa06860168dba608bc",
+        "url": "https://picsum.photos/857/528?random=886",
+        "alt": "Featured image for: The History of Beginner Mountain Hiking Routes",
+        "width": 857,
+        "height": 528
+      }
+    },
+    {
+      "id": 6,
+      "slug": "beginner-mountain-hiking-routes-in-2026-current-trends",
+      "title": "Beginner Mountain Hiking Routes in 2026: Current Trends",
+      "created_at": "2026-06-02T19:22:15.557158",
+      "image": {
+        "id": "58bf5c174ecb42b9de251114a1b15a8f6ffb5caa9604676294e98ce034c4bac0",
+        "url": "https://picsum.photos/911/538?random=20",
+        "alt": "Featured image for: Beginner Mountain Hiking Routes in 2026: Current Trends",
+        "width": 911,
+        "height": 538
+      }
+    },
+    {
+      "id": 7,
+      "slug": "future-of-beginner-mountain-hiking-routes",
+      "title": "Future of Beginner Mountain Hiking Routes",
+      "created_at": "2026-06-02T19:22:15.557191",
+      "image": {
+        "id": "7529d431353619000b8b955e8a9f5259f22cadbcbec066a795eb37c58b7142db",
+        "url": "https://picsum.photos/977/564?random=904",
+        "alt": "Featured image for: Future of Beginner Mountain Hiking Routes",
+        "width": 977,
+        "height": 564
+      }
+    },
+    {
+      "id": 8,
+      "slug": "common-mistakes-in-beginner-mountain-hiking-routes",
+      "title": "Common Mistakes in Beginner Mountain Hiking Routes",
+      "created_at": "2026-06-02T19:22:15.557223",
+      "image": {
+        "id": "077318fe2637ffdbad8b0ad35ae57110ec429b3ed42fd66c39cf319b049ab154",
+        "url": "https://picsum.photos/1039/583?random=372",
+        "alt": "Featured image for: Common Mistakes in Beginner Mountain Hiking Routes",
+        "width": 1039,
+        "height": 583
+      }
+    },
+    {
+      "id": 9,
+      "slug": "beginner-mountain-hiking-routes-for-beginners",
+      "title": "Beginner Mountain Hiking Routes for Beginners",
+      "created_at": "2026-06-02T19:22:15.557260",
+      "image": {
+        "id": "7529d431353619000b8b955e8a9f5259f22cadbcbec066a795eb37c58b7142db",
+        "url": "https://picsum.photos/977/564?random=904",
+        "alt": "Featured image for: Beginner Mountain Hiking Routes for Beginners",
+        "width": 977,
+        "height": 564
+      }
+    },
+    {
+      "id": 10,
+      "slug": "advanced-beginner-mountain-hiking-routes-techniques",
+      "title": "Advanced Beginner Mountain Hiking Routes Techniques",
+      "created_at": "2026-06-02T19:22:15.557292",
+      "image": {
+        "id": "58bf5c174ecb42b9de251114a1b15a8f6ffb5caa9604676294e98ce034c4bac0",
+        "url": "https://picsum.photos/911/538?random=20",
+        "alt": "Featured image for: Advanced Beginner Mountain Hiking Routes Techniques",
+        "width": 911,
+        "height": 538
+      }
+    }
+  ],
+  "advanced-mountain-hiking-routes": [
+    {
+      "id": 19,
+      "slug": "the-ultimate-guide-to-advanced-mountain-hiking-routes",
+      "title": "The Ultimate Guide to Advanced Mountain Hiking Routes",
+      "created_at": "2026-06-02T19:22:15.557572",
+      "image": {
+        "id": "5fcbf016871360cd632183acfbf478a5e147a7194c1338fa06860168dba608bc",
+        "url": "https://picsum.photos/857/528?random=886",
+        "alt": "Featured image for: The Ultimate Guide to Advanced Mountain Hiking Routes",
+        "width": 857,
+        "height": 528
+      }
+    },
+    {
+      "id": 20,
+      "slug": "advanced-mountain-hiking-routes-everything-you-need-to-know",
+      "title": "Advanced Mountain Hiking Routes: Everything You Need to Know",
+      "created_at": "2026-06-02T19:22:15.557603",
+      "image": {
+        "id": "58bf5c174ecb42b9de251114a1b15a8f6ffb5caa9604676294e98ce034c4bac0",
+        "url": "https://picsum.photos/911/538?random=20",
+        "alt": "Featured image for: Advanced Mountain Hiking Routes: Everything You Need to Know",
+        "width": 911,
+        "height": 538
+      }
+    },
+    {
+      "id": 21,
+      "slug": "understanding-advanced-mountain-hiking-routes",
+      "title": "Understanding Advanced Mountain Hiking Routes",
+      "created_at": "2026-06-02T19:22:15.557635",
+      "image": {
+        "id": "5fcbf016871360cd632183acfbf478a5e147a7194c1338fa06860168dba608bc",
+        "url": "https://picsum.photos/857/528?random=886",
+        "alt": "Featured image for: Understanding Advanced Mountain Hiking Routes",
+        "width": 857,
+        "height": 528
+      }
+    },
+    {
+      "id": 22,
+      "slug": "advanced-mountain-hiking-routes-tips-and-best-practices",
+      "title": "Advanced Mountain Hiking Routes Tips and Best Practices",
+      "created_at": "2026-06-02T19:22:15.557667",
+      "image": {
+        "id": "58bf5c174ecb42b9de251114a1b15a8f6ffb5caa9604676294e98ce034c4bac0",
+        "url": "https://picsum.photos/911/538?random=20",
+        "alt": "Featured image for: Advanced Mountain Hiking Routes Tips and Best Practices",
+        "width": 911,
+        "height": 538
+      }
+    },
+    {
+      "id": 23,
+      "slug": "the-history-of-advanced-mountain-hiking-routes",
+      "title": "The History of Advanced Mountain Hiking Routes",
+      "created_at": "2026-06-02T19:22:15.557696",
+      "image": {
+        "id": "077318fe2637ffdbad8b0ad35ae57110ec429b3ed42fd66c39cf319b049ab154",
+        "url": "https://picsum.photos/1039/583?random=372",
+        "alt": "Featured image for: The History of Advanced Mountain Hiking Routes",
+        "width": 1039,
+        "height": 583
+      }
+    },
+    {
+      "id": 24,
+      "slug": "advanced-mountain-hiking-routes-in-2026-current-trends",
+      "title": "Advanced Mountain Hiking Routes in 2026: Current Trends",
+      "created_at": "2026-06-02T19:22:15.557726",
+      "image": {
+        "id": "bec5ac85985bae2970f5a8ecf8a2c845c6def3fab09c68feae70e918b8f49db6",
+        "url": "https://picsum.photos/1053/411?random=493",
+        "alt": "Featured image for: Advanced Mountain Hiking Routes in 2026: Current Trends",
+        "width": 1053,
+        "height": 411
+      }
+    },
+    {
+      "id": 25,
+      "slug": "future-of-advanced-mountain-hiking-routes",
+      "title": "Future of Advanced Mountain Hiking Routes",
+      "created_at": "2026-06-02T19:22:15.557759",
+      "image": {
+        "id": "7529d431353619000b8b955e8a9f5259f22cadbcbec066a795eb37c58b7142db",
+        "url": "https://picsum.photos/977/564?random=904",
+        "alt": "Featured image for: Future of Advanced Mountain Hiking Routes",
+        "width": 977,
+        "height": 564
+      }
+    },
+    {
+      "id": 26,
+      "slug": "common-mistakes-in-advanced-mountain-hiking-routes",
+      "title": "Common Mistakes in Advanced Mountain Hiking Routes",
+      "created_at": "2026-06-02T19:22:15.557789",
+      "image": {
+        "id": "58bf5c174ecb42b9de251114a1b15a8f6ffb5caa9604676294e98ce034c4bac0",
+        "url": "https://picsum.photos/911/538?random=20",
+        "alt": "Featured image for: Common Mistakes in Advanced Mountain Hiking Routes",
+        "width": 911,
+        "height": 538
+      }
+    },
+    {
+      "id": 27,
+      "slug": "advanced-mountain-hiking-routes-for-beginners",
+      "title": "Advanced Mountain Hiking Routes for Beginners",
+      "created_at": "2026-06-02T19:22:15.557821",
+      "image": {
+        "id": "7529d431353619000b8b955e8a9f5259f22cadbcbec066a795eb37c58b7142db",
+        "url": "https://picsum.photos/977/564?random=904",
+        "alt": "Featured image for: Advanced Mountain Hiking Routes for Beginners",
+        "width": 977,
+        "height": 564
+      }
+    },
+    {
+      "id": 28,
+      "slug": "advanced-advanced-mountain-hiking-routes-techniques",
+      "title": "Advanced Advanced Mountain Hiking Routes Techniques",
+      "created_at": "2026-06-02T19:22:15.557852",
+      "image": {
+        "id": "58bf5c174ecb42b9de251114a1b15a8f6ffb5caa9604676294e98ce034c4bac0",
+        "url": "https://picsum.photos/911/538?random=20",
+        "alt": "Featured image for: Advanced Advanced Mountain Hiking Routes Techniques",
+        "width": 911,
+        "height": 538
+      }
+    }
+  ],
+  "tips-mountain-hiking-routes": [
+    {
+      "id": 37,
+      "slug": "the-ultimate-guide-to-mountain-hiking-routes-tips",
+      "title": "The Ultimate Guide to Mountain Hiking Routes Tips",
+      "created_at": "2026-06-02T19:22:15.558211",
+      "image": {
+        "id": "5fcbf016871360cd632183acfbf478a5e147a7194c1338fa06860168dba608bc",
+        "url": "https://picsum.photos/857/528?random=886",
+        "alt": "Featured image for: The Ultimate Guide to Mountain Hiking Routes Tips",
+        "width": 857,
+        "height": 528
+      }
+    },
+    {
+      "id": 38,
+      "slug": "mountain-hiking-routes-tips-everything-you-need-to-know",
+      "title": "Mountain Hiking Routes Tips: Everything You Need to Know",
+      "created_at": "2026-06-02T19:22:15.558266",
+      "image": {
+        "id": "bec5ac85985bae2970f5a8ecf8a2c845c6def3fab09c68feae70e918b8f49db6",
+        "url": "https://picsum.photos/1053/411?random=493",
+        "alt": "Featured image for: Mountain Hiking Routes Tips: Everything You Need to Know",
+        "width": 1053,
+        "height": 411
+      }
+    },
+    {
+      "id": 39,
+      "slug": "understanding-mountain-hiking-routes-tips",
+      "title": "Understanding Mountain Hiking Routes Tips",
+      "created_at": "2026-06-02T19:22:15.558306",
+      "image": {
+        "id": "bec5ac85985bae2970f5a8ecf8a2c845c6def3fab09c68feae70e918b8f49db6",
+        "url": "https://picsum.photos/1053/411?random=493",
+        "alt": "Featured image for: Understanding Mountain Hiking Routes Tips",
+        "width": 1053,
+        "height": 411
+      }
+    },
+    {
+      "id": 40,
+      "slug": "mountain-hiking-routes-tips-tips-and-best-practices",
+      "title": "Mountain Hiking Routes Tips Tips and Best Practices",
+      "created_at": "2026-06-02T19:22:15.558338",
+      "image": {
+        "id": "58bf5c174ecb42b9de251114a1b15a8f6ffb5caa9604676294e98ce034c4bac0",
+        "url": "https://picsum.photos/911/538?random=20",
+        "alt": "Featured image for: Mountain Hiking Routes Tips Tips and Best Practices",
+        "width": 911,
+        "height": 538
+      }
+    },
+    {
+      "id": 41,
+      "slug": "the-history-of-mountain-hiking-routes-tips",
+      "title": "The History of Mountain Hiking Routes Tips",
+      "created_at": "2026-06-02T19:22:15.558516",
+      "image": {
+        "id": "077318fe2637ffdbad8b0ad35ae57110ec429b3ed42fd66c39cf319b049ab154",
+        "url": "https://picsum.photos/1039/583?random=372",
+        "alt": "Featured image for: The History of Mountain Hiking Routes Tips",
+        "width": 1039,
+        "height": 583
+      }
+    },
+    {
+      "id": 42,
+      "slug": "mountain-hiking-routes-tips-in-2026-current-trends",
+      "title": "Mountain Hiking Routes Tips in 2026: Current Trends",
+      "created_at": "2026-06-02T19:22:15.558553",
+      "image": {
+        "id": "7529d431353619000b8b955e8a9f5259f22cadbcbec066a795eb37c58b7142db",
+        "url": "https://picsum.photos/977/564?random=904",
+        "alt": "Featured image for: Mountain Hiking Routes Tips in 2026: Current Trends",
+        "width": 977,
+        "height": 564
+      }
+    },
+    {
+      "id": 43,
+      "slug": "future-of-mountain-hiking-routes-tips",
+      "title": "Future of Mountain Hiking Routes Tips",
+      "created_at": "2026-06-02T19:22:15.558587",
+      "image": {
+        "id": "58bf5c174ecb42b9de251114a1b15a8f6ffb5caa9604676294e98ce034c4bac0",
+        "url": "https://picsum.photos/911/538?random=20",
+        "alt": "Featured image for: Future of Mountain Hiking Routes Tips",
+        "width": 911,
+        "height": 538
+      }
+    },
+    {
+      "id": 44,
+      "slug": "common-mistakes-in-mountain-hiking-routes-tips",
+      "title": "Common Mistakes in Mountain Hiking Routes Tips",
+      "created_at": "2026-06-02T19:22:15.558618",
+      "image": {
+        "id": "5fcbf016871360cd632183acfbf478a5e147a7194c1338fa06860168dba608bc",
+        "url": "https://picsum.photos/857/528?random=886",
+        "alt": "Featured image for: Common Mistakes in Mountain Hiking Routes Tips",
+        "width": 857,
+        "height": 528
+      }
+    },
+    {
+      "id": 45,
+      "slug": "mountain-hiking-routes-tips-for-beginners",
+      "title": "Mountain Hiking Routes Tips for Beginners",
+      "created_at": "2026-06-02T19:22:15.558659",
+      "image": {
+        "id": "077318fe2637ffdbad8b0ad35ae57110ec429b3ed42fd66c39cf319b049ab154",
+        "url": "https://picsum.photos/1039/583?random=372",
+        "alt": "Featured image for: Mountain Hiking Routes Tips for Beginners",
+        "width": 1039,
+        "height": 583
+      }
+    },
+    {
+      "id": 46,
+      "slug": "advanced-mountain-hiking-routes-tips-techniques",
+      "title": "Advanced Mountain Hiking Routes Tips Techniques",
+      "created_at": "2026-06-02T19:22:15.558690",
+      "image": {
+        "id": "58bf5c174ecb42b9de251114a1b15a8f6ffb5caa9604676294e98ce034c4bac0",
+        "url": "https://picsum.photos/911/538?random=20",
+        "alt": "Featured image for: Advanced Mountain Hiking Routes Tips Techniques",
+        "width": 911,
+        "height": 538
+      }
+    }
+  ],
+  "history-mountain-hiking-routes": [
+    {
+      "id": 55,
+      "slug": "the-ultimate-guide-to-mountain-hiking-routes-history",
+      "title": "The Ultimate Guide to Mountain Hiking Routes History",
+      "created_at": "2026-06-02T19:22:15.558957",
+      "image": {
+        "id": "58bf5c174ecb42b9de251114a1b15a8f6ffb5caa9604676294e98ce034c4bac0",
+        "url": "https://picsum.photos/911/538?random=20",
+        "alt": "Featured image for: The Ultimate Guide to Mountain Hiking Routes History",
+        "width": 911,
+        "height": 538
+      }
+    },
+    {
+      "id": 56,
+      "slug": "mountain-hiking-routes-history-everything-you-need-to-know",
+      "title": "Mountain Hiking Routes History: Everything You Need to Know",
+      "created_at": "2026-06-02T19:22:15.558988",
+      "image": {
+        "id": "5fcbf016871360cd632183acfbf478a5e147a7194c1338fa06860168dba608bc",
+        "url": "https://picsum.photos/857/528?random=886",
+        "alt": "Featured image for: Mountain Hiking Routes History: Everything You Need to Know",
+        "width": 857,
+        "height": 528
+      }
+    },
+    {
+      "id": 57,
+      "slug": "understanding-mountain-hiking-routes-history",
+      "title": "Understanding Mountain Hiking Routes History",
+      "created_at": "2026-06-02T19:22:15.559067",
+      "image": {
+        "id": "58bf5c174ecb42b9de251114a1b15a8f6ffb5caa9604676294e98ce034c4bac0",
+        "url": "https://picsum.photos/911/538?random=20",
+        "alt": "Featured image for: Understanding Mountain Hiking Routes History",
+        "width": 911,
+        "height": 538
+      }
+    },
+    {
+      "id": 58,
+      "slug": "mountain-hiking-routes-history-tips-and-best-practices",
+      "title": "Mountain Hiking Routes History Tips and Best Practices",
+      "created_at": "2026-06-02T19:22:15.559106",
+      "image": {
+        "id": "58bf5c174ecb42b9de251114a1b15a8f6ffb5caa9604676294e98ce034c4bac0",
+        "url": "https://picsum.photos/911/538?random=20",
+        "alt": "Featured image for: Mountain Hiking Routes History Tips and Best Practices",
+        "width": 911,
+        "height": 538
+      }
+    },
+    {
+      "id": 59,
+      "slug": "the-history-of-mountain-hiking-routes-history",
+      "title": "The History of Mountain Hiking Routes History",
+      "created_at": "2026-06-02T19:22:15.559138",
+      "image": {
+        "id": "bec5ac85985bae2970f5a8ecf8a2c845c6def3fab09c68feae70e918b8f49db6",
+        "url": "https://picsum.photos/1053/411?random=493",
+        "alt": "Featured image for: The History of Mountain Hiking Routes History",
+        "width": 1053,
+        "height": 411
+      }
+    },
+    {
+      "id": 60,
+      "slug": "mountain-hiking-routes-history-in-2026-current-trends",
+      "title": "Mountain Hiking Routes History in 2026: Current Trends",
+      "created_at": "2026-06-02T19:22:15.559169",
+      "image": {
+        "id": "5fcbf016871360cd632183acfbf478a5e147a7194c1338fa06860168dba608bc",
+        "url": "https://picsum.photos/857/528?random=886",
+        "alt": "Featured image for: Mountain Hiking Routes History in 2026: Current Trends",
+        "width": 857,
+        "height": 528
+      }
+    },
+    {
+      "id": 61,
+      "slug": "future-of-mountain-hiking-routes-history",
+      "title": "Future of Mountain Hiking Routes History",
+      "created_at": "2026-06-02T19:22:15.559207",
+      "image": {
+        "id": "bec5ac85985bae2970f5a8ecf8a2c845c6def3fab09c68feae70e918b8f49db6",
+        "url": "https://picsum.photos/1053/411?random=493",
+        "alt": "Featured image for: Future of Mountain Hiking Routes History",
+        "width": 1053,
+        "height": 411
+      }
+    },
+    {
+      "id": 62,
+      "slug": "common-mistakes-in-mountain-hiking-routes-history",
+      "title": "Common Mistakes in Mountain Hiking Routes History",
+      "created_at": "2026-06-02T19:22:15.559241",
+      "image": {
+        "id": "5fcbf016871360cd632183acfbf478a5e147a7194c1338fa06860168dba608bc",
+        "url": "https://picsum.photos/857/528?random=886",
+        "alt": "Featured image for: Common Mistakes in Mountain Hiking Routes History",
+        "width": 857,
+        "height": 528
+      }
+    },
+    {
+      "id": 63,
+      "slug": "mountain-hiking-routes-history-for-beginners",
+      "title": "Mountain Hiking Routes History for Beginners",
+      "created_at": "2026-06-02T19:22:15.559274",
+      "image": {
+        "id": "bec5ac85985bae2970f5a8ecf8a2c845c6def3fab09c68feae70e918b8f49db6",
+        "url": "https://picsum.photos/1053/411?random=493",
+        "alt": "Featured image for: Mountain Hiking Routes History for Beginners",
+        "width": 1053,
+        "height": 411
+      }
+    },
+    {
+      "id": 64,
+      "slug": "advanced-mountain-hiking-routes-history-techniques",
+      "title": "Advanced Mountain Hiking Routes History Techniques",
+      "created_at": "2026-06-02T19:22:15.559306",
+      "image": {
+        "id": "5fcbf016871360cd632183acfbf478a5e147a7194c1338fa06860168dba608bc",
+        "url": "https://picsum.photos/857/528?random=886",
+        "alt": "Featured image for: Advanced Mountain Hiking Routes History Techniques",
+        "width": 857,
+        "height": 528
+      }
+    }
+  ],
+  "trending-mountain-hiking-routes": [
+    {
+      "id": 73,
+      "slug": "the-ultimate-guide-to-trending-mountain-hiking-routes",
+      "title": "The Ultimate Guide to Trending Mountain Hiking Routes",
+      "created_at": "2026-06-02T19:22:15.559752",
+      "image": {
+        "id": "7529d431353619000b8b955e8a9f5259f22cadbcbec066a795eb37c58b7142db",
+        "url": "https://picsum.photos/977/564?random=904",
+        "alt": "Featured image for: The Ultimate Guide to Trending Mountain Hiking Routes",
+        "width": 977,
+        "height": 564
+      }
+    },
+    {
+      "id": 74,
+      "slug": "trending-mountain-hiking-routes-everything-you-need-to-know",
+      "title": "Trending Mountain Hiking Routes: Everything You Need to Know",
+      "created_at": "2026-06-02T19:22:15.559785",
+      "image": {
+        "id": "58bf5c174ecb42b9de251114a1b15a8f6ffb5caa9604676294e98ce034c4bac0",
+        "url": "https://picsum.photos/911/538?random=20",
+        "alt": "Featured image for: Trending Mountain Hiking Routes: Everything You Need to Know",
+        "width": 911,
+        "height": 538
+      }
+    },
+    {
+      "id": 75,
+      "slug": "understanding-trending-mountain-hiking-routes",
+      "title": "Understanding Trending Mountain Hiking Routes",
+      "created_at": "2026-06-02T19:22:15.559820",
+      "image": {
+        "id": "58bf5c174ecb42b9de251114a1b15a8f6ffb5caa9604676294e98ce034c4bac0",
+        "url": "https://picsum.photos/911/538?random=20",
+        "alt": "Featured image for: Understanding Trending Mountain Hiking Routes",
+        "width": 911,
+        "height": 538
+      }
+    },
+    {
+      "id": 76,
+      "slug": "trending-mountain-hiking-routes-tips-and-best-practices",
+      "title": "Trending Mountain Hiking Routes Tips and Best Practices",
+      "created_at": "2026-06-02T19:22:15.559853",
+      "image": {
+        "id": "7529d431353619000b8b955e8a9f5259f22cadbcbec066a795eb37c58b7142db",
+        "url": "https://picsum.photos/977/564?random=904",
+        "alt": "Featured image for: Trending Mountain Hiking Routes Tips and Best Practices",
+        "width": 977,
+        "height": 564
+      }
+    },
+    {
+      "id": 77,
+      "slug": "the-history-of-trending-mountain-hiking-routes",
+      "title": "The History of Trending Mountain Hiking Routes",
+      "created_at": "2026-06-02T19:22:15.559891",
+      "image": {
+        "id": "58bf5c174ecb42b9de251114a1b15a8f6ffb5caa9604676294e98ce034c4bac0",
+        "url": "https://picsum.photos/911/538?random=20",
+        "alt": "Featured image for: The History of Trending Mountain Hiking Routes",
+        "width": 911,
+        "height": 538
+      }
+    },
+    {
+      "id": 78,
+      "slug": "trending-mountain-hiking-routes-in-2026-current-trends",
+      "title": "Trending Mountain Hiking Routes in 2026: Current Trends",
+      "created_at": "2026-06-02T19:22:15.559923",
+      "image": {
+        "id": "bec5ac85985bae2970f5a8ecf8a2c845c6def3fab09c68feae70e918b8f49db6",
+        "url": "https://picsum.photos/1053/411?random=493",
+        "alt": "Featured image for: Trending Mountain Hiking Routes in 2026: Current Trends",
+        "width": 1053,
+        "height": 411
+      }
+    },
+    {
+      "id": 79,
+      "slug": "future-of-trending-mountain-hiking-routes",
+      "title": "Future of Trending Mountain Hiking Routes",
+      "created_at": "2026-06-02T19:22:15.559954",
+      "image": {
+        "id": "077318fe2637ffdbad8b0ad35ae57110ec429b3ed42fd66c39cf319b049ab154",
+        "url": "https://picsum.photos/1039/583?random=372",
+        "alt": "Featured image for: Future of Trending Mountain Hiking Routes",
+        "width": 1039,
+        "height": 583
+      }
+    },
+    {
+      "id": 80,
+      "slug": "common-mistakes-in-trending-mountain-hiking-routes",
+      "title": "Common Mistakes in Trending Mountain Hiking Routes",
+      "created_at": "2026-06-02T19:22:15.559985",
+      "image": {
+        "id": "5fcbf016871360cd632183acfbf478a5e147a7194c1338fa06860168dba608bc",
+        "url": "https://picsum.photos/857/528?random=886",
+        "alt": "Featured image for: Common Mistakes in Trending Mountain Hiking Routes",
+        "width": 857,
+        "height": 528
+      }
+    },
+    {
+      "id": 81,
+      "slug": "trending-mountain-hiking-routes-for-beginners",
+      "title": "Trending Mountain Hiking Routes for Beginners",
+      "created_at": "2026-06-02T19:22:15.560018",
+      "image": {
+        "id": "077318fe2637ffdbad8b0ad35ae57110ec429b3ed42fd66c39cf319b049ab154",
+        "url": "https://picsum.photos/1039/583?random=372",
+        "alt": "Featured image for: Trending Mountain Hiking Routes for Beginners",
+        "width": 1039,
+        "height": 583
+      }
+    },
+    {
+      "id": 82,
+      "slug": "advanced-trending-mountain-hiking-routes-techniques",
+      "title": "Advanced Trending Mountain Hiking Routes Techniques",
+      "created_at": "2026-06-02T19:22:15.560049",
+      "image": {
+        "id": "077318fe2637ffdbad8b0ad35ae57110ec429b3ed42fd66c39cf319b049ab154",
+        "url": "https://picsum.photos/1039/583?random=372",
+        "alt": "Featured image for: Advanced Trending Mountain Hiking Routes Techniques",
+        "width": 1039,
+        "height": 583
+      }
+    }
+  ],
+  "tutorials-mountain-hiking-routes": [
+    {
+      "id": 91,
+      "slug": "the-ultimate-guide-to-mountain-hiking-routes-tutorials",
+      "title": "The Ultimate Guide to Mountain Hiking Routes Tutorials",
+      "created_at": "2026-06-02T19:22:15.560326",
+      "image": {
+        "id": "5fcbf016871360cd632183acfbf478a5e147a7194c1338fa06860168dba608bc",
+        "url": "https://picsum.photos/857/528?random=886",
+        "alt": "Featured image for: The Ultimate Guide to Mountain Hiking Routes Tutorials",
+        "width": 857,
+        "height": 528
+      }
+    },
+    {
+      "id": 92,
+      "slug": "mountain-hiking-routes-tutorials-everything-you-need-to-know",
+      "title": "Mountain Hiking Routes Tutorials: Everything You Need to Know",
+      "created_at": "2026-06-02T19:22:15.560357",
+      "image": {
+        "id": "7529d431353619000b8b955e8a9f5259f22cadbcbec066a795eb37c58b7142db",
+        "url": "https://picsum.photos/977/564?random=904",
+        "alt": "Featured image for: Mountain Hiking Routes Tutorials: Everything You Need to Know",
+        "width": 977,
+        "height": 564
+      }
+    },
+    {
+      "id": 93,
+      "slug": "understanding-mountain-hiking-routes-tutorials",
+      "title": "Understanding Mountain Hiking Routes Tutorials",
+      "created_at": "2026-06-02T19:22:15.560391",
+      "image": {
+        "id": "58bf5c174ecb42b9de251114a1b15a8f6ffb5caa9604676294e98ce034c4bac0",
+        "url": "https://picsum.photos/911/538?random=20",
+        "alt": "Featured image for: Understanding Mountain Hiking Routes Tutorials",
+        "width": 911,
+        "height": 538
+      }
+    },
+    {
+      "id": 94,
+      "slug": "mountain-hiking-routes-tutorials-tips-and-best-practices",
+      "title": "Mountain Hiking Routes Tutorials Tips and Best Practices",
+      "created_at": "2026-06-02T19:22:15.560422",
+      "image": {
+        "id": "077318fe2637ffdbad8b0ad35ae57110ec429b3ed42fd66c39cf319b049ab154",
+        "url": "https://picsum.photos/1039/583?random=372",
+        "alt": "Featured image for: Mountain Hiking Routes Tutorials Tips and Best Practices",
+        "width": 1039,
+        "height": 583
+      }
+    },
+    {
+      "id": 95,
+      "slug": "the-history-of-mountain-hiking-routes-tutorials",
+      "title": "The History of Mountain Hiking Routes Tutorials",
+      "created_at": "2026-06-02T19:22:15.560453",
+      "image": {
+        "id": "7529d431353619000b8b955e8a9f5259f22cadbcbec066a795eb37c58b7142db",
+        "url": "https://picsum.photos/977/564?random=904",
+        "alt": "Featured image for: The History of Mountain Hiking Routes Tutorials",
+        "width": 977,
+        "height": 564
+      }
+    },
+    {
+      "id": 96,
+      "slug": "mountain-hiking-routes-tutorials-in-2026-current-trends",
+      "title": "Mountain Hiking Routes Tutorials in 2026: Current Trends",
+      "created_at": "2026-06-02T19:22:15.560484",
+      "image": {
+        "id": "077318fe2637ffdbad8b0ad35ae57110ec429b3ed42fd66c39cf319b049ab154",
+        "url": "https://picsum.photos/1039/583?random=372",
+        "alt": "Featured image for: Mountain Hiking Routes Tutorials in 2026: Current Trends",
+        "width": 1039,
+        "height": 583
+      }
+    },
+    {
+      "id": 97,
+      "slug": "future-of-mountain-hiking-routes-tutorials",
+      "title": "Future of Mountain Hiking Routes Tutorials",
+      "created_at": "2026-06-02T19:22:15.560516",
+      "image": {
+        "id": "bec5ac85985bae2970f5a8ecf8a2c845c6def3fab09c68feae70e918b8f49db6",
+        "url": "https://picsum.photos/1053/411?random=493",
+        "alt": "Featured image for: Future of Mountain Hiking Routes Tutorials",
+        "width": 1053,
+        "height": 411
+      }
+    },
+    {
+      "id": 98,
+      "slug": "common-mistakes-in-mountain-hiking-routes-tutorials",
+      "title": "Common Mistakes in Mountain Hiking Routes Tutorials",
+      "created_at": "2026-06-02T19:22:15.560547",
+      "image": {
+        "id": "bec5ac85985bae2970f5a8ecf8a2c845c6def3fab09c68feae70e918b8f49db6",
+        "url": "https://picsum.photos/1053/411?random=493",
+        "alt": "Featured image for: Common Mistakes in Mountain Hiking Routes Tutorials",
+        "width": 1053,
+        "height": 411
+      }
+    },
+    {
+      "id": 99,
+      "slug": "mountain-hiking-routes-tutorials-for-beginners",
+      "title": "Mountain Hiking Routes Tutorials for Beginners",
+      "created_at": "2026-06-02T19:22:15.560579",
+      "image": {
+        "id": "7529d431353619000b8b955e8a9f5259f22cadbcbec066a795eb37c58b7142db",
+        "url": "https://picsum.photos/977/564?random=904",
+        "alt": "Featured image for: Mountain Hiking Routes Tutorials for Beginners",
+        "width": 977,
+        "height": 564
+      }
+    },
+    {
+      "id": 100,
+      "slug": "advanced-mountain-hiking-routes-tutorials-techniques",
+      "title": "Advanced Mountain Hiking Routes Tutorials Techniques",
+      "created_at": "2026-06-02T19:22:15.560612",
+      "image": {
+        "id": "bec5ac85985bae2970f5a8ecf8a2c845c6def3fab09c68feae70e918b8f49db6",
+        "url": "https://picsum.photos/1053/411?random=493",
+        "alt": "Featured image for: Advanced Mountain Hiking Routes Tutorials Techniques",
+        "width": 1053,
+        "height": 411
+      }
+    }
+  ]
+}
